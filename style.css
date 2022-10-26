@@ -23,7 +23,7 @@ body {
 }
 
 section {
-  background-image: url('header-shapes-1.jpg');
+  background-image: url(Assets/img/header-shapes.jpg);
   display: flex;
   flex-direction: column;
 }
@@ -73,9 +73,9 @@ p {
   list-style: none;
 }
 
-.fa-facebook,
+.fa-m,
 .fa-twitter,
-.fa-instagram,
+.fa-hand-peace,
 .fa-linkedin,
 .fa-github {
   margin-left: 20px;
