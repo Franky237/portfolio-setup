@@ -20,7 +20,7 @@
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link]( https://franky237.github.io/portfolio-setup/)
 
 
 To get a local copy up and running follow these simple example steps.
